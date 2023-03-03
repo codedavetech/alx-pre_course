@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "The school is open!"
 =======
 #!/bin/bash
 echo "School"
 >>>>>>> origin
+=======
+#!/bin/bash
+echo "The school is open!"
+>>>>>>> origin/update_script
